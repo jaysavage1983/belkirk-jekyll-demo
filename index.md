@@ -11,7 +11,7 @@ services:
   - description: >-
       Performing collaborative research and providing services to support the
       Health Sector.
-    heading: Health
+    heading: Healthcare
     icon: /uploads/2017/11/13/health.png
   - description: >-
       Performing collaborative research and providing services to support the
