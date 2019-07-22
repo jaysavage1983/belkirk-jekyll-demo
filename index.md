@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: /img/banner.png
+banner_image: /uploads/content-and-information-providers-hd.jpg
 layout: landing-page
 heading: Greentree Consulting
 partners:
