@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Greentree Consulting
+short_title: GC
+description: Greentree Consulting IT service provider
 baseurl:
 permalink: "/:path/"
 defaults:
