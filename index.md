@@ -1,7 +1,7 @@
 ---
 title: Home
 banner_image: /uploads/content-and-information-providers-hd.jpg
-layout: landing-page
+layout: default
 heading: Greentree Consulting
 partners:
   - /uploads/2017/11/13/stem.png
