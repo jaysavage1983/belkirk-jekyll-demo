@@ -18,7 +18,7 @@ services:
       biotechnology sector.
     heading: BioTech
     icon: /uploads/2017/11/13/biotech.png
-sub_heading: Engineering and Health Sciences
+sub_heading: Professional IT Solutions
 textline: Belkirk College of EngineeringOra et Labora
 hero_button:
   text: Learn more
