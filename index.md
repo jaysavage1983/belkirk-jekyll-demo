@@ -19,7 +19,7 @@ services:
     heading: BioTech
     icon: /uploads/2017/11/13/biotech.png
 sub_heading: Professional IT Solutions
-textline: Belkirk College of EngineeringOra et Labora
+textline: Greentree Consulting Professional IT Solutions
 hero_button:
   text: Learn more
   href: /about
