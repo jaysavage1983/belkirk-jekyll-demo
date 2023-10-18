@@ -9,14 +9,12 @@ partners:
   - /uploads/2017/11/13/nysed.png
 services:
   - description: >-
-      Performing collaborative research and providing services to support the
-      Health Sector.
-    heading: Healthcare
+      Professional IT Solutions
+    heading: Computer maintenance
     icon: /uploads/2017/11/13/health.png
   - description: >-
-      Performing collaborative research and providing services to support the
-      biotechnology sector.
-    heading: BioTech
+      Professional IT Solutions
+    heading: Repairs and replacement
     icon: /uploads/2017/11/13/biotech.png
 sub_heading: Professional IT Solutions
 textline: Greentree Consulting Professional IT Solutions
